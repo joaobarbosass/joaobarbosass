@@ -1,5 +1,5 @@
 <h1>👋 Olá, sou o João Vitor Barbosa</h1>
-    <p align="left"><em>Estudante de Sistemas de Informação — 2º período</em></p>
+    <p align="left"><em>Estudante de Sistemas de Informação — 1º período | UFU</em></p>
 
   <h2>🎯 Objetivo</h2>
     <ul>
